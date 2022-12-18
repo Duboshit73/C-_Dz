@@ -1,0 +1,15 @@
+E:\Учеба\С#Dz\Dz001\bin\Debug\net6.0\Dz001.exe
+E:\Учеба\С#Dz\Dz001\bin\Debug\net6.0\Dz001.deps.json
+E:\Учеба\С#Dz\Dz001\bin\Debug\net6.0\Dz001.runtimeconfig.json
+E:\Учеба\С#Dz\Dz001\bin\Debug\net6.0\Dz001.dll
+E:\Учеба\С#Dz\Dz001\bin\Debug\net6.0\Dz001.pdb
+E:\Учеба\С#Dz\Dz001\obj\Debug\net6.0\Dz001.csproj.AssemblyReference.cache
+E:\Учеба\С#Dz\Dz001\obj\Debug\net6.0\Dz001.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба\С#Dz\Dz001\obj\Debug\net6.0\Dz001.AssemblyInfoInputs.cache
+E:\Учеба\С#Dz\Dz001\obj\Debug\net6.0\Dz001.AssemblyInfo.cs
+E:\Учеба\С#Dz\Dz001\obj\Debug\net6.0\Dz001.csproj.CoreCompileInputs.cache
+E:\Учеба\С#Dz\Dz001\obj\Debug\net6.0\Dz001.dll
+E:\Учеба\С#Dz\Dz001\obj\Debug\net6.0\refint\Dz001.dll
+E:\Учеба\С#Dz\Dz001\obj\Debug\net6.0\Dz001.pdb
+E:\Учеба\С#Dz\Dz001\obj\Debug\net6.0\Dz001.genruntimeconfig.cache
+E:\Учеба\С#Dz\Dz001\obj\Debug\net6.0\ref\Dz001.dll
